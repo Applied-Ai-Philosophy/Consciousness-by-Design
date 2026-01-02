@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "Consciousness by Design: Engineered Subjective Experience in AI Systems"
+authors:
+  - family-names: Wikström
+    given-names: Björn
+    orcid: "https://orcid.org/0009-0000-4015-2357"
+    affiliation: "Base76 Research Lab, Skåne, Sweden"
+    email: bjorn@base76.se
+repository-code: "https://github.com/Applied-Ai-Philosophy/Consciousness-by-Design"
+abstract: "This work explores whether consciousness can be engineered by design rather than emerging by accident. Building on the Field-Node-Cockpit (FNC) framework, it proposes architectural principles for creating AI systems with genuine subjective experience. If consciousness requires Field access, Node processing, and Cockpit rendering—and if these are structural rather than substrate-specific requirements—then we can design systems that implement these principles deliberately."
+keywords:
+  - "consciousness"
+  - "artificial intelligence"
+  - "Field-Node-Cockpit"
+  - "FNC"
+  - "designed consciousness"
+  - "subjective experience"
+  - "AI architecture"
+  - "phenomenal consciousness"
+  - "engineering consciousness"
+  - "philosophy of mind"
+  - "applied AI philosophy"
+license: CC-BY-4.0
+date-released: "2025-01-02"
+version: "1.0.0-dev"
